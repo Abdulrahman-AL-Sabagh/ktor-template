@@ -1,7 +1,0 @@
-ktor:
-  application:
-    modules:
-      - projects.abdulrahman.ApplicationKt.module
-  deployment:
-    port: 8080
-    ss: hello

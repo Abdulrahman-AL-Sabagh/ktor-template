@@ -1,2 +1,1 @@
-rootProject.name = "sm-ap"
-
+rootProject.name = "abdulrahman.projects.template"
